@@ -22,5 +22,5 @@ public class UserInfo {
 
     private String password;
 
-    private String Roles;
+    private String roles;
 }
